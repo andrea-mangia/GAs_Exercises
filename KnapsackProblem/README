@@ -1,0 +1,3 @@
+I made 2 versions of the knapsack problem, the first by using elitism, the second one without it.
+Even if the 2 versions use the same identical parameters (except the ones regarding the Hall of Fame obviously) the version using elitism can often reach
+the optimal solution (value of 1030) while the one that doesn't use it can't reach it and stops at  sub-optimal solutions with an average of 1000 value per solution
